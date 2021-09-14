@@ -1,34 +1,38 @@
 body {
-    background-color: #907fa4;
-  }
+  background-color: #38A3A5;
+}
 
-  hr {
-    border-color: #a58faa;
-    border-width: 5px;
-    border-style: dotted none none;
-    width: 7%;
-  
-  }
-  h1{
-    color: #a6d6d6;
-  }
-  h3
-  {
-    color: #a6d6d6;
-  }
-  p
-  {
-    color: whitesmoke;
-  }
-  table
-  {
-    color: whitesmoke;
-  }
-  ul
-  {
-    color: whitesmoke;
-  }
-  ol
-  {
-    color: whitesmoke;
-  }
+hr {
+  border-style: dotted none none;
+  width: 10%;
+  border-color: #80ED79;
+  border-width: 5px;
+}
+h1{
+color: #22577A;
+}
+
+h3
+{
+color: #22577A;
+}
+
+p
+{
+color: whitesmoke;
+}
+
+table
+{
+color: whitesmoke;
+}
+
+ul
+{
+color: whitesmoke;
+}
+
+ol
+{
+color: whitesmoke;
+}
